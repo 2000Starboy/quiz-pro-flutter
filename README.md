@@ -20,27 +20,21 @@ Voici quelques aperçus de l'application personnalisée sur un simulateur iOS :
 
 ### Écran de Question
 
-<img width="403" height="886" alt="Q1" src="https://github.com/user-attachments/assets/0f3cd227-9e81-401e-85e1-5464fb8a4c97" />
+<img width="403" height="886" alt="Q1" src="https://github.com/user-attachments/assets/3b62b805-1c8a-4855-9d77-aa8ad70d0ba2" />
 
+<img width="402" height="895" alt="Q2" src="https://github.com/user-attachments/assets/2d60d50e-ff4b-4a97-8b98-1533da2fb281" />
 
-
-<img width="402" height="895" alt="Q2" src="https://github.com/user-attachments/assets/9b04a6c1-496e-4576-af09-b7415c57aadb" />
-
-
-
-<img width="400" height="898" alt="Q3" src="https://github.com/user-attachments/assets/7df5ae92-4bca-49b9-a620-e226b60b7f18" />
-
-
+<img width="400" height="898" alt="Q3" src="https://github.com/user-attachments/assets/f98b41c3-825b-4dfa-80c3-8be1d552a2e9" />
 
 
 ### Écran de Résultat du Quiz
 
-<img width="402" height="899" alt="Result" src="https://github.com/user-attachments/assets/8bc208a2-f898-4e61-8ced-74cdc0b3c561" />
+<img width="402" height="899" alt="Result" src="https://github.com/user-attachments/assets/98a34683-8dcd-4823-aa2d-25b78c2040ae" />
 
 
 ### Aperçu de l'App Bar et du Thème
 
-<img width="403" height="886" alt="App bar And Colors" src="https://github.com/user-attachments/assets/5264bd09-a49d-4a2e-90e3-f3f624d8de99" />
+<img width="403" height="886" alt="App bar And Colors" src="https://github.com/user-attachments/assets/ef02961c-db1a-4a27-bba5-27892681c55c" />
 
 ---
 
