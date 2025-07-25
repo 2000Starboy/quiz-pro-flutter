@@ -75,8 +75,3 @@ Pour configurer et exécuter ce projet localement :
         ```
         L'application sera construite et lancée sur votre appareil cible.
 
----
-
-## Licence
-
-(Optionnel : Insérez les informations de votre licence ici, par exemple : "Ce projet est sous licence MIT - voir le fichier LICENSE.md pour plus de détails.")
